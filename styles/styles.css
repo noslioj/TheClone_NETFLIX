@@ -2,6 +2,10 @@ body {
     background-color:whitesmoke;
 }
 
+img {
+    width:100%;
+}
+
 .box_container {
     height: 565px;
     padding: 16px;
