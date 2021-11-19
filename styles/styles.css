@@ -43,6 +43,7 @@ img {
     width: 250px;
     height: 60px;
     border: 4px solid #49ac49;
+    border-radius:12px;
     background: gray;
 
 }
@@ -64,11 +65,16 @@ img {
     width: 250px;
     height: 60px;
     border: 4px solid #49ac49;
+    border-radius:12px;
     background: gray;
 
 }
 
 h3 {
+    font-family:monospace, 'Courier New', Courier;
+    font-size:medium;
+    font-weight:bold;
+    color:whitesmoke;
     text-align:center;
 }
 
